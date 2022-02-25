@@ -5,6 +5,7 @@ import Tab from "@mui/material/Tab";
 import Box from "@mui/material/Box";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 import { styled } from "@mui/material";
+import { useMediaQuery } from "react-responsive";
 
 const StyledTabs = styled((props) => (
   <Tabs
@@ -47,12 +48,16 @@ export const Navigation = () => {
     navigate(newValue);
   };
 
+  const isMobile = useMediaQuery({ query: "(max-width: 599px)" });
+
   return (
-    <Box sx={{ width: "100%" }}>
+    <Box sx={{ maxWidth: "430px", margin: "auto" }}>
       <StyledTabs
         component="nav"
         value={value}
-        centered
+        variant="scrollable"
+        scrollButtons={isMobile}
+        allowScrollButtonsMobile
         onChange={handleChange}
         textColor="secondary"
         indicatorColor="secondary"
