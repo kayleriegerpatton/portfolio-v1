@@ -20,12 +20,14 @@ export const Footer = () => {
       >
         <IconButton
           href="mailto:kayle.patton22@gmail.com"
+          target="_blank"
           sx={{ color: "var(--dark-lavender)" }}
         >
           <EmailIcon fontSize="large" />
         </IconButton>
         <IconButton
           href="https://github.com/kayleriegerpatton"
+          target="_blank"
           sx={{ color: "var(--dark-lavender)" }}
         >
           <GitHubIcon fontSize="large" />
