@@ -1,0 +1,16 @@
+:root {
+  --periwinkle-crayola: #d6e2ffff;
+  --lavender-blue: #c6caedff;
+  --dark-lavender: #474a94;
+  --goldenrod: #d8a802;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: var(--lavender-blue);
+  color: black;
+}
