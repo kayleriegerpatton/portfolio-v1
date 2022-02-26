@@ -25,7 +25,7 @@ The app utilizes React routing, conditional rendering, and Material UI component
 
 ### Deployed Application
 
-[View the deployed application]()
+[View the deployed application](https://kayleriegerpatton.github.io/portfolio-v1/#/about)
 
 ## License
 
