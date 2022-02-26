@@ -7,11 +7,11 @@ import { WorkPage } from "./pages/WorkPage";
 export const AppRoutes = () => {
   return (
     <Routes>
-      <Route path="/about" element={<AboutPage />} exact={true}></Route>
+      <Route path="/about" element={<AboutPage />}></Route>
 
-      <Route path="/work" element={<WorkPage />} exact={true}></Route>
+      <Route path="/work" element={<WorkPage />}></Route>
 
-      <Route path="/contact" element={<ContactPage />} exact={true}></Route>
+      <Route path="/contact" element={<ContactPage />}></Route>
 
       <Route path="/*" element={<AboutPage />}></Route>
     </Routes>
