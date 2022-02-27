@@ -6,6 +6,9 @@ import { useMediaQuery } from "react-responsive";
 import { PageTitle } from "../components/PageTitle";
 import { Bio } from "../components/Bio";
 
+import profilePic from "../images/profilePic.jpeg";
+import brandLogo from "../images/brandLogo.png";
+
 export const AboutPage = () => {
   const isMobile = useMediaQuery({ query: "(max-width: 499px)" });
 
@@ -36,15 +39,12 @@ export const AboutPage = () => {
         >
           <Avatar
             alt="Kayle wearing glasses and a blazer"
-            src="/assets/images/profile-pic-square.jpeg"
+            src={profilePic}
             sx={largeAvatarStyles}
           >
             K
           </Avatar>
-          <Avatar
-            src="/assets/images/brandLogo.png"
-            sx={largeAvatarStyles}
-          ></Avatar>
+          <Avatar src={brandLogo} sx={largeAvatarStyles}></Avatar>
         </AvatarGroup>
       )}
 
@@ -56,15 +56,12 @@ export const AboutPage = () => {
         >
           <Avatar
             alt="Kayle wearing glasses and a blazer"
-            src="/assets/images/profile-pic-square.jpeg"
+            src={profilePic}
             sx={smallAvatarStyles}
           >
             K
           </Avatar>
-          <Avatar
-            src="/assets/images/brandLogo.png"
-            sx={smallAvatarStyles}
-          ></Avatar>
+          <Avatar src={brandLogo} sx={smallAvatarStyles}></Avatar>
         </AvatarGroup>
       )}
 

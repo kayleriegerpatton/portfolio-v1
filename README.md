@@ -33,8 +33,8 @@ MIT License
 
 ## Screenshots
 
-![About Page](public/assets/images/portfolio-screenshots/aboutPage.png)
+![About Page](screenshots/aboutPage.png)
 
-![Work Page](public/assets/images/portfolio-screenshots/workPage.png)
+![Work Page](screenshots/workPage.png)
 
-![Contact Page](public/assets/images/portfolio-screenshots/contactPage.png)
+![Contact Page](screenshots/contactPage.png)

@@ -3,6 +3,8 @@ import Typography from "@mui/material/Typography";
 import Modal from "@mui/material/Modal";
 import Avatar from "@mui/material/Avatar";
 
+import bizInFront from "../../images/bizInFront.png";
+
 const style = {
   position: "absolute",
   top: "50%",
@@ -26,7 +28,7 @@ export const ContactModal = ({ handleClose, open }) => {
     >
       <Box sx={style}>
         <Avatar
-          src="/assets/images/biz-in-front.png"
+          src={bizInFront}
           alt="Mullet graphic with text: Business in the front, party in the back"
           variant="square"
           sx={{
