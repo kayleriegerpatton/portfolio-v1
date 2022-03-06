@@ -70,7 +70,7 @@ export const Navigation = () => {
         <StyledTab
           component="a"
           target="_blank"
-          href="https://drive.google.com/file/d/18NsaPjd5oxh66oGwOhSeTQ_yP8ePOsH-/view?usp=sharing"
+          href="https://www.canva.com/design/DAE4Ifi_4Ok/SH47Ljun912k8XMwEI8YgA/view?utm_content=DAE4Ifi_4Ok&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel"
           value="resume"
           label="Resume"
           icon={<OpenInNewIcon fontSize="small" />}
