@@ -10,6 +10,7 @@ import noteTaker from "../images/project-screenshots/noteTaker.png";
 import passwordGenerator from "../images/project-screenshots/passwordGenerator.png";
 import javaScriptCodeQuiz from "../images/project-screenshots/javaScriptCodeQuiz.png";
 import teamProfileGeneratorGif from "../gifs/teamProfileGeneratorGif.gif";
+import unified from '..images/project-screenshots/unified.png'
 
 export const projects = [
   {
@@ -29,7 +30,7 @@ export const projects = [
     imageSrc: stockscape,
     altText: "Website run-through including pie chart animation gif",
     githubUrl: "https://github.com/kayleriegerpatton/stockscape",
-    // deployedUrl: "https://stockscape-game.herokuapp.com/",
+    deployedUrl: "",
     featured: true,
   },
   {
@@ -89,6 +90,24 @@ export const projects = [
     deployedUrl: "",
   },
   {
+    id: 13,
+    title: "Unified",
+    technologies: [
+      "React",
+      "AWS S3",
+      "Apollo Client",
+      "JavaScript",
+      "MongoDB",
+      "GraphQL",
+    ],
+    description:
+      "A full-stack student services site featuring user-authentication, subscription polling, and AWS image uploading.",
+    imageSrc: unified,
+    altText: "Unified landing page",
+    githubUrl: "https://github.com/kayleriegerpatton/unified-client",
+    deployedUrl: "",
+  },
+  {
     id: 11,
     title: "Tech Talk",
     technologies: [
@@ -104,7 +123,7 @@ export const projects = [
     imageSrc: techTalk,
     altText: "Lavender and orange webpage with list of blogs",
     githubUrl: "https://github.com/kayleriegerpatton/tech-blog-cms",
-    // deployedUrl: "https://tech-talk-2022.herokuapp.com/",
+    deployedUrl: "",
   },
   {
     id: 9,
@@ -128,7 +147,7 @@ export const projects = [
     altText:
       "Webpage with note title and contents, and list of other note titles on left-hand side",
     githubUrl: "https://github.com/kayleriegerpatton/note-taker/",
-    // deployedUrl: "https://blooming-sierra-30356.herokuapp.com/",
+    deployedUrl: "",
   },
   {
     id: 3,
