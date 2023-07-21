@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.e757034f.css",
-    "main.js": "/portfolio-v1/static/js/main.f081f2e1.js",
-    "static/media/stockscape.gif": "/portfolio-v1/static/media/stockscape.4f6d361fa639ce88a65e.gif",
-    "static/media/techTalk.png": "/portfolio-v1/static/media/techTalk.6cc0750fd5084f2f2707.png",
-    "static/media/soundArtSmart.png": "/portfolio-v1/static/media/soundArtSmart.ce5d057bc0c1e04024bc.png",
-    "static/media/teamProfileGeneratorGif.gif": "/portfolio-v1/static/media/teamProfileGeneratorGif.f5fa7097cb494912b187.gif",
-    "static/media/ecommerceBackEnd.gif": "/portfolio-v1/static/media/ecommerceBackEnd.cd5b9425ac03df089b46.gif",
-    "static/media/readmeGenerator.gif": "/portfolio-v1/static/media/readmeGenerator.aaee4a93b676610540c4.gif",
-    "static/media/employeeManagement.gif": "/portfolio-v1/static/media/employeeManagement.9fbf3f7f073252f54606.gif",
-    "static/media/profilePic.jpeg": "/portfolio-v1/static/media/profilePic.ab9c5318bb4af8cd1c94.jpeg",
-    "static/media/weatherDashboard.png": "/portfolio-v1/static/media/weatherDashboard.1e8cc2608ebb43c6373f.png",
-    "static/media/dayPlanner.png": "/portfolio-v1/static/media/dayPlanner.1540d6e4452d08bf01c6.png",
-    "static/media/brandLogo.png": "/portfolio-v1/static/media/brandLogo.53b2aea407c449488503.png",
-    "static/media/noteTaker.png": "/portfolio-v1/static/media/noteTaker.7852f5367aad182625ec.png",
-    "static/media/bizInFront.png": "/portfolio-v1/static/media/bizInFront.087722257ef1e461ebe3.png",
-    "static/media/passwordGenerator.png": "/portfolio-v1/static/media/passwordGenerator.931a81d3432353834354.png",
-    "static/media/javaScriptCodeQuiz.png": "/portfolio-v1/static/media/javaScriptCodeQuiz.2a9e49d754d735422b33.png",
-    "index.html": "/portfolio-v1/index.html",
-    "main.e757034f.css.map": "/portfolio-v1/static/css/main.e757034f.css.map",
-    "main.f081f2e1.js.map": "/portfolio-v1/static/js/main.f081f2e1.js.map"
+    "main.css": "/portfolio/static/css/main.e757034f.css",
+    "main.js": "/portfolio/static/js/main.36efde5e.js",
+    "static/media/stockscape.gif": "/portfolio/static/media/stockscape.4f6d361fa639ce88a65e.gif",
+    "static/media/techTalk.png": "/portfolio/static/media/techTalk.6cc0750fd5084f2f2707.png",
+    "static/media/soundArtSmart.png": "/portfolio/static/media/soundArtSmart.ce5d057bc0c1e04024bc.png",
+    "static/media/teamProfileGeneratorGif.gif": "/portfolio/static/media/teamProfileGeneratorGif.f5fa7097cb494912b187.gif",
+    "static/media/ecommerceBackEnd.gif": "/portfolio/static/media/ecommerceBackEnd.cd5b9425ac03df089b46.gif",
+    "static/media/readmeGenerator.gif": "/portfolio/static/media/readmeGenerator.aaee4a93b676610540c4.gif",
+    "static/media/employeeManagement.gif": "/portfolio/static/media/employeeManagement.9fbf3f7f073252f54606.gif",
+    "static/media/profilePic.jpeg": "/portfolio/static/media/profilePic.ab9c5318bb4af8cd1c94.jpeg",
+    "static/media/weatherDashboard.png": "/portfolio/static/media/weatherDashboard.1e8cc2608ebb43c6373f.png",
+    "static/media/dayPlanner.png": "/portfolio/static/media/dayPlanner.1540d6e4452d08bf01c6.png",
+    "static/media/brandLogo.png": "/portfolio/static/media/brandLogo.53b2aea407c449488503.png",
+    "static/media/noteTaker.png": "/portfolio/static/media/noteTaker.7852f5367aad182625ec.png",
+    "static/media/bizInFront.png": "/portfolio/static/media/bizInFront.087722257ef1e461ebe3.png",
+    "static/media/passwordGenerator.png": "/portfolio/static/media/passwordGenerator.931a81d3432353834354.png",
+    "static/media/javaScriptCodeQuiz.png": "/portfolio/static/media/javaScriptCodeQuiz.2a9e49d754d735422b33.png",
+    "index.html": "/portfolio/index.html",
+    "main.e757034f.css.map": "/portfolio/static/css/main.e757034f.css.map",
+    "main.36efde5e.js.map": "/portfolio/static/js/main.36efde5e.js.map"
   },
   "entrypoints": [
     "static/css/main.e757034f.css",
-    "static/js/main.f081f2e1.js"
+    "static/js/main.36efde5e.js"
   ]
 }
