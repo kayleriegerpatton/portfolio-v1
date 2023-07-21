@@ -29,7 +29,7 @@ export const projects = [
     imageSrc: stockscape,
     altText: "Website run-through including pie chart animation gif",
     githubUrl: "https://github.com/kayleriegerpatton/stockscape",
-    deployedUrl: "https://stockscape-game.herokuapp.com/",
+    // deployedUrl: "https://stockscape-game.herokuapp.com/",
     featured: true,
   },
   {
@@ -104,7 +104,7 @@ export const projects = [
     imageSrc: techTalk,
     altText: "Lavender and orange webpage with list of blogs",
     githubUrl: "https://github.com/kayleriegerpatton/tech-blog-cms",
-    deployedUrl: "https://tech-talk-2022.herokuapp.com/",
+    // deployedUrl: "https://tech-talk-2022.herokuapp.com/",
   },
   {
     id: 9,
@@ -128,7 +128,7 @@ export const projects = [
     altText:
       "Webpage with note title and contents, and list of other note titles on left-hand side",
     githubUrl: "https://github.com/kayleriegerpatton/note-taker/",
-    deployedUrl: "https://blooming-sierra-30356.herokuapp.com/",
+    // deployedUrl: "https://blooming-sierra-30356.herokuapp.com/",
   },
   {
     id: 3,
