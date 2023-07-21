@@ -10,7 +10,7 @@ import noteTaker from "../images/project-screenshots/noteTaker.png";
 import passwordGenerator from "../images/project-screenshots/passwordGenerator.png";
 import javaScriptCodeQuiz from "../images/project-screenshots/javaScriptCodeQuiz.png";
 import teamProfileGeneratorGif from "../gifs/teamProfileGeneratorGif.gif";
-import unified from '..images/project-screenshots/unified.png'
+import unified from '../images/project-screenshots/unified.png'
 
 export const projects = [
   {
