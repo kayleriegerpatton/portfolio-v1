@@ -18,7 +18,6 @@ export const projects = [
     title: "Stockscape",
     technologies: [
       "Chart.js",
-      "Bootstrap CSS",
       "Express.js",
       "Handlebars.js",
       "JavaScript",
@@ -113,7 +112,6 @@ export const projects = [
     technologies: [
       "Bootstrap CSS",
       "Handlebars.js",
-      "Express.js",
       "JavaScript",
       "MySQL",
       "REST API",
