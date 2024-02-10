@@ -1,6 +1,4 @@
-# Portfolio
 
-![MIT](https://img.shields.io/static/v1?label=MIT&message=License&color=blueviolet)
 
 ## Table of Contents
 
